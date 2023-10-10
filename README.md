@@ -1,12 +1,6 @@
 ### Welcome, derfarctor here!
 
-I am interested in blockchain, programming and cryptography. My current projects relate to nano and banano cryptocurrencies, and are as follows:
-1. **dagchat** - a nano and banano wallet which can also send end to end encrypted messages using the in-house dagchat protocol
-2. **brute** - a mnemonic brute forcing tool that can be used to recover wallets from mnemonic phrases with up to 5 missing words
-
-#### Donations
-- **Nano:** `nano_3kpznqbuzs3grswcqkzitd5fwky4s5cmyt76wru7kbenfwza7q9c1f1egzhm`
-- **Banano:** `ban_3kpznqbuzs3grswcqkzitd5fwky4s5cmyt76wru7kbenfwza7q9c1f1egzhm`
+Working on my first game...
 
 <!--
 **derfarctor/derfarctor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
